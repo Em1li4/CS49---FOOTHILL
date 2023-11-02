@@ -26,9 +26,3 @@ Enter a value for green (0-255): 0
 
 Enter a value for blue (0-255): 150
 ```
-
-
-
-
-
-Which neopixel to light? |
