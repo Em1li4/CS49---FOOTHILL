@@ -1,3 +1,9 @@
+# This is the code i used to solve the handwashing timer. 
+# It lights up all the lights in a lapse of 20 seconds, allowing the user to pick a color for the lights. We are using RGB values for the lights.
+# If the user doesn't pick a color in the available range,  a backup color will be selected by default. 
+# At the end, it plays the jingle bell song to let the user know the time is done.
+
+
 from adafruit_circuitplayground import cp
 import time
 
