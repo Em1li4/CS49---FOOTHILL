@@ -5,6 +5,6 @@ I am taking CS49 in foothill college, this is the repository of my python progra
 **Each project will have its own folder, where you will find sub-folders that contain a:**
 
 
-_Readme file that contains the description of what we want to achieve with our project_
+_Readme file that contains the description of what we want to achieve with our project._
 
-_"Name of the project" file that contains the code used to solve the project_
+_"Name of the project" file that contains the code used to solve the project._
