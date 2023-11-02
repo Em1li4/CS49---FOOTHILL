@@ -8,8 +8,6 @@ Auto-reload is on. Simply save files over USB to run them or enter REPL to disab
 
 ```
 <details>
-
-
  code.py output:
 
 Which neopixel to light? 0
@@ -30,7 +28,6 @@ Enter a value for red (0-255): 50
 Enter a value for green (0-255): 0
 
 Enter a value for blue (0-255): 150
-
 </details>
 ```
 
