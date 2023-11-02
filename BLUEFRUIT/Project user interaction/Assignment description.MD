@@ -6,9 +6,9 @@ Here's an example of what your program run might look like in the Mu editor, in 
 
 Auto-reload is on. Simply save files over USB to run them or enter REPL to disable.
 
+```
 <details>
 
-```
 
  code.py output:
 
@@ -31,9 +31,9 @@ Enter a value for green (0-255): 0
 
 Enter a value for blue (0-255): 150
 
+</details>
 ```
 
-</details>
 
 
 
