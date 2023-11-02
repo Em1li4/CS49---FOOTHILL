@@ -4,8 +4,6 @@ The loop should allow the user to light (or to turn off) as many pixels as they 
 
 Here's an example of what your program run might look like in the Mu editor, in the serial window pane (and the Bluefruit device would be lighting up accordingly):
 
-Auto-reload is on. Simply save files over USB to run them or enter REPL to disable.
-
 ```
  code.py output:
 
